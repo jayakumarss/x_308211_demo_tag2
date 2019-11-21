@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-21 20:38:33">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG2">ce81b88ddbd14010343f58b3ca96198d</application>
+<application_name>Demo TAG2</application_name>
+<application_scope>x_308211_demo_tag2</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo TAG2 - 1.0.3</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>76c33441db154010343f58b3ca961996</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-21 20:38:33</sys_created_on>
+<sys_id>4b147841db154010343f58b3ca9619bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-21 20:38:33</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG2">ce81b88ddbd14010343f58b3ca96198d</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_6fd37441db154010343f58b3ca961992</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_308211_demo_tag2.DemoTag2Test&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description&gt;Test&lt;/description&gt;&lt;name&gt;DemoTag2Test&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/**
+ * Class Description
+ * 
+ * @class 
+ * @author System Administrator [admin]
+ * @memberof x_308211_demo_tag2.module:sys_script_include
+ */
+var DemoTag2Test = Class.create();
+DemoTag2Test.prototype = /** @lends x_308211_demo_tag2.module:sys_script_include.DemoTag2Test.prototype */ {
+    /**
+     * Description
+     * 
+     * @returns {undefined}
+     */
+    initialize: function() {
+		this.test();
+    },
+
+    type: 'DemoTag2Test'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-11-21 20:37:42&lt;/sys_created_on&gt;&lt;sys_id&gt;6fd37441db154010343f58b3ca961992&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;DemoTag2Test&lt;/sys_name&gt;&lt;sys_package display_value="Demo TAG2" source="x_308211_demo_tag2"&gt;ce81b88ddbd14010343f58b3ca96198d&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Demo TAG2"&gt;ce81b88ddbd14010343f58b3ca96198d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_6fd37441db154010343f58b3ca961992&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-11-21 20:37:59&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1712411206</payload_hash>
+<remote_update_set display_value="Demo TAG2 - 1.0.3">4b147841db154010343f58b3ca9619bc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-21 20:38:33</sys_created_on>
+<sys_id>0f147841db154010343f58b3ca9619bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e8faf95970000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-21 20:38:33</sys_updated_on>
+<table/>
+<target_name>DemoTag2Test</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>faf3f041f41540109ec7acb184de5e0f</update_guid>
+<update_guid_history>faf3f041f41540109ec7acb184de5e0f:1712411206,aee3b441d8154010f340a1846c918746:988715309</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
