@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "x_308211_demo_tag2_table",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-21 20:33:06",
+  "sys_id": "5bd23401db154010343f58b3ca961929",
+  "sys_mod_count": 0,
+  "sys_name": "x_308211_demo_tag2_table",
+  "sys_package": "ce81b88ddbd14010343f58b3ca96198d",
+  "sys_policy": null,
+  "sys_scope": "ce81b88ddbd14010343f58b3ca96198d",
+  "sys_update_name": "sys_ui_section_5bd23401db154010343f58b3ca961929",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-21 20:33:06",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}
