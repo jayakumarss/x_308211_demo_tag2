@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "Demo TAG2 Table",
+  "language": "en",
+  "name": "x_308211_demo_tag2_table",
+  "plural": "Demo TAG2 Tables",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-21 20:27:18",
+  "sys_id": "6a81bc8ddbd14010343f58b3ca96191f",
+  "sys_mod_count": 0,
+  "sys_name": "Demo TAG2 Table",
+  "sys_package": "ce81b88ddbd14010343f58b3ca96198d",
+  "sys_policy": null,
+  "sys_scope": "ce81b88ddbd14010343f58b3ca96198d",
+  "sys_update_name": "sys_documentation_x_308211_demo_tag2_table__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-21 20:27:18",
+  "url": null,
+  "url_target": null
+}
